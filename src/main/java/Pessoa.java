@@ -1,4 +1,4 @@
-
+package src.main.java;
 
 class Pessoa {
     private String nome;
@@ -28,4 +28,3 @@ class Pessoa {
         return nome + " (" + idade + " anos, sexo: " + sexo + ")";
     }
 }
-
